@@ -217,9 +217,9 @@ PreparedStatement更胜一筹
 #### 12.修饰符一览
 
 ```
-修饰符 			类内部  	同一个包		子类 		任何地方
+修饰符 		    类内部  	         同一个包		               子类 		   任何地方
 private 		yes
-default         yes			yes
+default                 yes			yes
 protected		yes			yes				yes
 public			yes			yes				yes			yes
 ```
